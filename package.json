@@ -1,6 +1,6 @@
 {
   "name": "google-react-recaptcha-v2",
-   "version": "1.0.0",
+   "version": "1.0.1",
   "description": "React component for Google reCAPTCHA",
   "main": "dist/index.cjs",
   "module": "dist/index.mjs",
@@ -12,9 +12,29 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AndresH11/google-react-recaptcha-v2.git"
+    "url": "https://github.com/AndresH11/google-react-recaptcha-v2.git"
   },
-  "keywords": ["react", "recaptcha", "invisible", "checkbox","google", "typescript"],
+  "bugs": {
+    "url": "https://github.com/AndresH11/google-react-recaptcha-v2/issues"
+  },
+  "homepage": "https://github.com/AndresH11/google-react-recaptcha-v2/blob/main/README.md",
+  "keywords": [
+    "react",
+    "recaptcha",
+    "invisible",
+    "checkbox",
+    "google",
+    "typescript",
+    "recaptcha",
+    "google recaptcha",
+    "invisible recaptcha",
+    "recaptcha v2",
+    "react recaptcha",
+    "form validation",
+    "bot protection",
+    "react component",
+    "recaptcha hook",
+    "recaptcha typescript"],
   "author": "Andres Felipe Hernandez Aldana",
   "license": "ISC",
   "peerDependencies": {
